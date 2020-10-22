@@ -58,7 +58,7 @@ author = "bmc::labs"
 contact_form_action = "#"
 currency = "€"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "/images/bmc-board_logo_2.svg"
 logo_width = "100px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
