@@ -32,8 +32,8 @@ features:
     content: features a MPL3115 for meassuring temperature, pressure and altitude.
   - title: CAN
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'CAN bus controller on chip and transciever (SN65HVD) on board for immediate
+      usage '
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
