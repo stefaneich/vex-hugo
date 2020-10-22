@@ -25,7 +25,7 @@ features:
       memory
   - title: easy to use
     icon: tf-ion-ios-cart-outline
-    content: power and program the board via USB-C
+    content: 'power and program the board via USB-C, or power it with up to 25V. '
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
