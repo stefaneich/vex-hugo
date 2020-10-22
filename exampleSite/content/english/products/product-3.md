@@ -4,8 +4,8 @@ date:
 images:
 - "/images/mini-grid.PNG"
 description: this is meta description
-price: '30.00'
-discount_price: '25.00'
+price: "42.69"
+discount_price: "42.69"
 colors: []
 sizes: []
 
