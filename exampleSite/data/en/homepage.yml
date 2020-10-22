@@ -34,10 +34,9 @@ features:
     icon: tf-ion-ios-bell-outline
     content: 'CAN bus controller on chip and transciever (SN65HVD) on board for immediate
       usage '
-  - title: Easy Pricing
+  - title: micro SD
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: micro SD card included on the board.
 promo:
   enable: true
   image: images/watch.png
