@@ -73,7 +73,7 @@ products:
 subscription:
   enable: true
   bg_image: "/images/img_20201013_153411.jpg"
-  title: Get Product Updates
+  title: Get Product Updates.
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Hier könnte ihre E-mail stehen.
 testimonial:
