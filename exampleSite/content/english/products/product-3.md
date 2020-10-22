@@ -6,10 +6,7 @@ images:
 description: this is meta description
 price: '30.00'
 discount_price: '25.00'
-colors:
-- black
-- white
-- gray
+colors: []
 sizes:
 - small
 - medium
