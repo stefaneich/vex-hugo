@@ -16,10 +16,9 @@ features:
   title: bmc::board
   image: "/images/mini-base-topview-1.PNG"
   left_side:
-  - title: Smooth Touch
+  - title: compact design
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: with 54x42.5 mm it is as small as half a credit card.
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
