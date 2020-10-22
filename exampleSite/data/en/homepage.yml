@@ -21,7 +21,7 @@ features:
     content: with 54x42.5 mm it is as small as half a credit card.
   - title: high performance
     icon: tf-ion-ios-bell-outline
-    content: STM32
+    content: powerd by STM32F103, CPU speed of 72MHz
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
