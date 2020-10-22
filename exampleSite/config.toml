@@ -19,6 +19,7 @@ weight = 2
 [[menu.footer]]
 URL = "privacy-policy"
 name = "Privacy Policy"
+url = "https://bmc-labs.com/privacy_policy.html"
 weight = 4
 [[menu.footer]]
 URL = "terms-conditions"
