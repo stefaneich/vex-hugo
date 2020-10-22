@@ -36,7 +36,7 @@ features:
       usage '
   - title: micro SD
     icon: tf-ion-ios-cart-outline
-    content: micro SD card included on the board.
+    content: micro SD card included on the board, and ready to use.
 promo:
   enable: true
   image: images/watch.png
