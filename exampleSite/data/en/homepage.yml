@@ -23,10 +23,9 @@ features:
     icon: tf-ion-ios-bell-outline
     content: powerd by a STM32F103 with a CPU speed of 72MHz and 128 Kbytes of Flash
       memory
-  - title: Easy Pricing
+  - title: easy to use
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: power and program the board via USB-C
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
