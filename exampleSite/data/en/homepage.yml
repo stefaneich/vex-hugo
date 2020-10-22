@@ -19,7 +19,7 @@ features:
   - title: compact design
     icon: tf-ion-ios-alarm-outline
     content: with 54x42.5 mm it is as small as half a credit card.
-  - title: high performance
+  - title: MCU
     icon: tf-ion-ios-bell-outline
     content: powerd by a STM32F103 with a CPU speed of 72MHz and 128 Kbytes of Flash
       memory
