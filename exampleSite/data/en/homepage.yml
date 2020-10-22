@@ -13,7 +13,7 @@ banner:
     link: products
 features:
   enable: true
-  title: bmc::board
+  title: '"bmc::board"'
   image: "/images/mini-base-topview-1.PNG"
   left_side:
   - title: Smooth Touch
