@@ -14,7 +14,7 @@ banner:
 features:
   enable: true
   title: we are bare metal
-  image: "/images/bmc_sm_2020_09_24.PNG"
+  image: "/images/mini-base-topview.PNG"
   left_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
