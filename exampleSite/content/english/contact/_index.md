@@ -3,9 +3,9 @@ title: Contact
 description: this is a meta description
 office:
   title: Central Office
-  mobile: '0124857985320'
-  email: florian@bmc-labs.com
-  location: Munich, Germany
+  mobile: "+49 (89) 90159894"
+  email: info@bmc-labs.com
+  location: bmc::labs GmbH Fauststraße 48 81827 München Germany
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna
 opennig_hour:
