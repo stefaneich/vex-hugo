@@ -6,7 +6,7 @@ banner:
     tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
     adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
     hic at, nostrum nihil!
-  image: x-special/nautilus-clipboard copy file:///home/stefan/Schreibtisch/bmc::board%20web/bmc-board_logo_2.svg
+  image: "/images/bmc-board_logo_2.svg"
   button:
     enable: true
     label: Browse All Products
