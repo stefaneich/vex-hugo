@@ -41,7 +41,7 @@ URL = "products"
 name = "Products"
 weight = 2
 [[menu.main]]
-URL = "blog"
+URL = "https://blog.bmc-labs.com/"
 name = "Blog"
 weight = 3
 [[menu.main]]
