@@ -75,7 +75,7 @@ subscription:
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
+  placeholder: Hier könnte ihre E-mail stehen.
 testimonial:
   enable: true
   title: Watch Review
