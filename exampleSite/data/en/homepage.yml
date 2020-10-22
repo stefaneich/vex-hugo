@@ -69,7 +69,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Checkout Our All Products
+  title: Checkout all our products
 subscription:
   enable: true
   bg_image: "/images/img_20201013_153411.jpg"
