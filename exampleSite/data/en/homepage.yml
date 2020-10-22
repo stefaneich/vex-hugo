@@ -19,10 +19,9 @@ features:
   - title: compact design
     icon: tf-ion-ios-alarm-outline
     content: with 54x42.5 mm it is as small as half a credit card.
-  - title: Elegant Design
+  - title: high performance
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: STM32
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
