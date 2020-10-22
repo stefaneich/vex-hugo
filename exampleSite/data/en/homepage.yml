@@ -27,10 +27,9 @@ features:
     icon: tf-ion-ios-cart-outline
     content: 'power and program the board via USB-C, or power it with up to 25V. '
   right_side:
-  - title: Smooth Touch
+  - title: under construction
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: features a MPL3115 for meassuring temperature, pressure and altitude.
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
