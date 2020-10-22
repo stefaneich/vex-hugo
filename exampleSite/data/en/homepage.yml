@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  title: bmc::labs                    We are bare metal
+  title: bmc::labs, We are bare metal
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
     adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
