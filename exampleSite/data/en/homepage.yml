@@ -79,6 +79,10 @@ testimonial:
   enable: true
   title: Watch Review
   testimonial_item:
+  - name: Abraham Lincon
+    designation: POTUS USA
+    image: ''
+    content: Traue keiner Rezension, die du nicht selbst verfasst hast.
   - name: Al Bundy
     designation: CEO, Shoeshop
     image: images/avater.png
