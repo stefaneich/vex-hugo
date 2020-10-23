@@ -39,12 +39,9 @@ features:
     content: micro SD card included on the board, and ready to use.
 promo:
   enable: true
-  image: images/watch.png
+  image: "/images/whatsapp-image-2020-10-15-at-16-14-36-1.jpeg"
   title: Hier könnte ihre Werbung stehen
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  content: Sollte sie aber nicht. Hier sollte eine Beschreibung der Produkte stehen.
 about_product:
   enable: true
   title: Why Choose Apple Watch
