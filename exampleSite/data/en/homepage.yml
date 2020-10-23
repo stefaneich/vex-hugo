@@ -40,7 +40,7 @@ features:
 promo:
   enable: true
   image: "/images/whatsapp-image-2020-10-15-at-16-14-36-1.jpeg"
-  title: Hier könnte ihre Werbung stehen
+  title: Safe and green package
   content: Sollte sie aber nicht. Hier sollte eine Beschreibung der Produkte stehen.
 about_product:
   enable: true
